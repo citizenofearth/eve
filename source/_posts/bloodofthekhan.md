@@ -5,41 +5,20 @@ date: {{ date }}
 tags: eve
 ---
 
-Welcome to the official homepage of [Blood of the Khan](https://eve.tenzin.ca/), an Eve Online empire.
+We are the [Blood of the Khan](https://eve.tenzin.ca/), a nomadic tribe of New Eden.  For æons, since the Great Khagan Temüjin founded the empire, his blood have roamed and conquered the earth.  We, the lost children of Temüjin, have now taken to the stars to paint the skies in red giant blood.
 
-## ROSTER
+## THE BLOOD:
 
-
-## Quick Start
-
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
 ```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
+Zeus Feratu
+ZeeDutchess
+Quasar Coriolus
+Max Longshot
+Dum Astheycum
+Lev Onren
+Hauler Atme
+Zeus Ghostwolf
+Taa Galactus
+Nyx Sygnal
+Syx Sygnal
 ```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```	
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
