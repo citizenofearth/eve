@@ -1,9 +1,13 @@
 [{
-    "name": "Coming Soon",
+    "name": "Tenzin.ca",
     "url": "https://www.tenzin.ca/",
-    "desc": "Web development, photography, life"
+    "desc": "Web Development | Photography | Eve Online"
 }, {
     "name": "GitHub",
     "url": "http://www.github.com/citizenofearth/",
-    "desc": "Web development, mostly"
+    "desc": "Web Development"
+}, {
+	"name": "Eve Online",
+	"url": "http://secure.eveonline.com/signup/?invc=24a204b6-6255-4e24-90d1-e693edf3f846&action=buddy",
+	"desc": "Space Simulator"
 }]
