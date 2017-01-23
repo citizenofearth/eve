@@ -15,6 +15,7 @@ Quasar Coriolus
 Max Longshot
 Dum Astheycum
 Lev Onren
+Player Cardswright
 Hauler Atme
 Zeus Ghostwolf
 Taa Galactus

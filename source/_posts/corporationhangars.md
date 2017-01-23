@@ -13,5 +13,5 @@ tags: eve
 4th Division : Ammunition
 5th Division : For Sale
 6th Division : PVP Gear
-7th Division : --
+7th Division : Blueprints
 ```
