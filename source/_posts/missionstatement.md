@@ -2,6 +2,6 @@
 title: Mission Statement
 author: Nyx Sygnal
 date: {{ date }}
-tags: eve
+tags: eve, corp
 ---
 ## R&P

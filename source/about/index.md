@@ -17,4 +17,5 @@ Zeus Ghostwolf
 Taa Galactus
 Nyx Sygnal
 Syx Sygnal
+Io Nova
 ```
