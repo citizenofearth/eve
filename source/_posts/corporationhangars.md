@@ -6,8 +6,6 @@ tags: eve, corp
 ---
 ## CORPORATION HANGAR DIVISIONS
 
-# Keep these hangar divisions clean and organized!
-
 ```
 1st Division : Minerals & Mining
 2st Division : Salvaged Materials
@@ -17,3 +15,5 @@ tags: eve, corp
 6st Division : Misc Fittings
 7st Division : Loyalty Points Store
 ```
+
+# Please help keep these hangar divisions clean!

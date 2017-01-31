@@ -12,14 +12,7 @@ We are the [Blood of the Khan](https://eve.tenzin.ca/), a nomadic tribe of New E
 Zeus Feratu
 ZeeDutchess
 Quasar Coriolus
-Max Longshot
 Dum Astheycum
-Lev Onren
-Player Cardswright
-Hauler Atme
 Zeus Ghostwolf
-Taa Galactus
-Nyx Sygnal
-Syx Sygnal
 Io Nova
 ```
