@@ -1,7 +1,7 @@
 [{
     "name": "Tenzin.ca",
     "url": "https://www.tenzin.ca/",
-    "desc": "Web Development | Photography | Eve Online"
+    "desc": "Online Portfolio"
 }, {
     "name": "GitHub",
     "url": "http://www.github.com/citizenofearth/",
@@ -9,5 +9,5 @@
 }, {
 	"name": "Eve Online",
 	"url": "http://secure.eveonline.com/signup/?invc=24a204b6-6255-4e24-90d1-e693edf3f846&action=buddy",
-	"desc": "Space Simulator"
+	"desc": "Sci-Fi Space Simulator"
 }]
