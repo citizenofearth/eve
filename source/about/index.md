@@ -9,6 +9,4 @@ Zeus Feratu
 ZeeDutchess
 Quasar Coriolus
 Dum Astheycum
-Zeus Ghostwolf
-Io Nova
 ```

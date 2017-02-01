@@ -2,7 +2,9 @@
 title: Corporation Hangars
 author: Nyx Sygnal
 date: {{ date }}
-tags: eve, corp
+tags:
+	- eve
+	- corp
 ---
 ## CORPORATION HANGAR DIVISIONS
 

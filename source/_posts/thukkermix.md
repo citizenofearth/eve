@@ -2,7 +2,9 @@
 title: Thukker Mix
 date: 2017-01-24 12:57:18
 author: Nyx Sygnal
-tags: eve, history
+tags:
+	- eve
+	- history
 ---
 ## THUKKER TRIBE
 

@@ -2,7 +2,9 @@
 title: POS Setup I
 date: 2017-01-21 17:04:42
 author: Nyx Sygnal
-tags: eve, pos
+tags:
+	- eve
+	- pos
 ---
 ## SHADOW CONTROL TOWER
 

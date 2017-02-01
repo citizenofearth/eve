@@ -2,7 +2,9 @@
 title: Research & Development
 date: 2017-01-29 14:42:36
 author: Nyx Sygnal
-tags: eve, r&d
+tags:
+	- eve
+	- r&d
 ---
 Research agent work for the R&D division of a corporations.  Once an agent is working for you, you get Research Points (RP) from them which can be used to purchase Datacores.  To use a research agent you must have the appropriate skills and standings (available in the Research Services information of that agent).
 
