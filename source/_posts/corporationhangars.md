@@ -18,4 +18,4 @@ tags:
 7st Division : Loyalty Points Store
 ```
 
-# Please help keep these hangar divisions clean!
+# Help keep these hangar divisions clean!

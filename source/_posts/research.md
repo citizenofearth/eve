@@ -91,5 +91,4 @@ Location: Itamo 0.7
 Electronic Engineering (68,60 RP/day)
 Molecular Engineering (68,60 RP/day)
 Nanite Engineering (68,60 RP/day)
----
 ```
