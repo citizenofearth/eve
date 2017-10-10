@@ -1,13 +1,33 @@
 [{
-    "name": "Tenzin.ca",
-    "url": "https://www.tenzin.ca/",
-    "desc": "Online Portfolio"
+    "name": "EVE Online",
+    "url": "http://secure.eveonline.com/signup/?invc=24a204b6-6255-4e24-90d1-e693edf3f846&action=buddy",
+    "desc": "play for free + 250,000 bonus skill points"
 }, {
-    "name": "GitHub",
-    "url": "http://www.github.com/citizenofearth/",
-    "desc": "Web Development"
+    "name": "EVE University",
+    "url": "https://www.eveuniversity.org/",
+    "desc": "start learning about eve online here"
 }, {
-	"name": "Eve Online",
-	"url": "http://secure.eveonline.com/signup/?invc=24a204b6-6255-4e24-90d1-e693edf3f846&action=buddy",
-	"desc": "Sci-Fi Space Simulator"
+    "name": "EVE Market Data",
+    "url": "https://eve-marketdata.com/",
+    "desc": "main source for market prices"
+}, {
+    "name": "Dotlan Maps",
+    "url": "http://evemaps.dotlan.net/",
+    "desc": "space maps and sovereignty data"
+}, {
+    "name": "zKillboard",
+    "url": "https://zkillboard.com/",
+    "desc": "pilot killboards"
+}, {
+    "name": "Wormhole Pasta",
+    "url": "https://o.smium.org/",
+    "desc": "ship fittings"
+}, {
+    "name": "Osmium",
+    "url": "https://o.smium.org/",
+    "desc": "ship fittings"
+}, {
+	"name": "Goonswarm Federation",
+	"url": "http://goonfleet.org/",
+	"desc": "join the dark side"
 }]
