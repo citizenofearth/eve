@@ -1,6 +1,6 @@
 ---
 title: POS Setup I
-date: 2017-01-21 17:04:42
+date: 2017-08-01 12:41:56
 author: Nyx Sygnal
 tags:
 	- eve
