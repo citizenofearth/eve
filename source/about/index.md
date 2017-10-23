@@ -2,14 +2,15 @@
 title: about
 ---
 
-[Blood of the Khan](https://eve.tenzin.ca/) is a nomadic tribe of New Eden.  For æons, since the Great Khagan Temüjin founded our empire, his bloodkin roamed and conquered the Earth.  We, the lost children of Temüjin, have taken to the stars to paint the skies in red giant blood.
+The lost children of the Great Khagan Temüjin, who have taken to the stars to paint the skies in red giant blood.
 
-## ROSTER
+## The Khaganate
 
-```
-Zeus Feratu
-Quasar Coriolus
-Dum Astheycum
-Nyx Sygnal
-Minmatar Citizen 09058079
-```
+- Zeus Feratu
+- Quasar Coriolus
+- Dum Astheycum
+- Nyx Sygnal
+- Minmatar Citizen 09058079
+
+
+![Great Khagan Temüjin](https://i.pinimg.com/originals/4e/48/73/4e487350ef72cd0d23e232e019d3029d.jpg)
