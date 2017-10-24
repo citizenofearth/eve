@@ -2,7 +2,7 @@
 title: about
 ---
 
-The lost children of the Great Khagan Temüjin, who have taken to the stars to paint the skies in red giant blood.
+We are the lost children of our Great Khagan Temüjin; those who have taken to the stars to paint the skies in red giant blood.
 
 ## The Khaganate
 
@@ -13,4 +13,4 @@ The lost children of the Great Khagan Temüjin, who have taken to the stars to p
 - Minmatar Citizen 09058079
 
 
-![Great Khagan Temüjin](https://i.pinimg.com/originals/4e/48/73/4e487350ef72cd0d23e232e019d3029d.jpg)
+![Great Khagan Temüjin](../images/temujin.jpg)
