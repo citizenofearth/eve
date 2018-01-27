@@ -7,17 +7,18 @@ tags:
     - citadel
     - industry
 ---
+***
 
 ## ASTRAHUS
 
-887m ISK in Jita
-20 Fuel Blocks per hour
-20,000 isk per Fuel Block
-9,600,000 ISK per day
+- 887m ISK in Jita
+- 20 Fuel Blocks per hour
+- 20,000 isk per Fuel Block
+- 9,600,000 ISK per day
 
 ### Services:
-Cloning Centre
-Reprocessing Plant
-Compression Plant
+- Cloning Centre
+- Reprocessing Plant
+- Compression Plant
 
 ### Locations:
