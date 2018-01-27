@@ -2,15 +2,26 @@
 title: about
 ---
 
-We are the lost children of our Great Khagan Temüjin; those who have taken to the stars to paint the skies in red giant blood.
+We are the lost children of the Great Khagan Temüjin.  We are a conglomerate based in Metropolis who partakes in industry, PvP, PvE, horse-archery, and pillaging.
 
 ## The Khaganate
 
 - Zeus Feratu
 - Quasar Coriolus
-- Dum Astheycum
+- Finn Ferdinand
+- Lynx Sygnal
 - Nyx Sygnal
-- Minmatar Citizen 09058079
+- Syx Sygnal
+- Robby Digital
+- Fyodor Volkov
+- Rae Kwan
+- Tong Poh
+- Taa Galactus
+- Thanos Zar-Akuma
+- Io Nova
+- Hannibal Chu
 
+***
 
-![Great Khagan Temüjin](../images/temujin.jpg)
+*“I am the punishment of God. If you had not committed great sins, God would not have sent a punishment like me upon you.”*
+![Great Khagan Temüjin](/images/temujin.jpg)

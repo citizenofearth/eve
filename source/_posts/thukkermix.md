@@ -6,6 +6,8 @@ tags:
 	- eve
 	- history
 ---
+
+![Thukker Tribe](/images/thukker_tribe.png)
 ## THUKKER TRIBE
 
 The Thukker tribe is one of the seven original Minmatar tribes. After the Minmatar Rebellion the Thukkers left Minmatar space and took up the nomadic lifestyles of their ancestors, only this time in space. The closest thing they've got to home is the Great Wildlands region, where they are very numerous, but the Thukkers like to be on the move, constantly going from one solar system to another in their huge caravans, trading and scavenging. Respectable citizens of EVE frown upon the Thukkers, considering them to be nothing but scoundrels and thieves. Indeed, the Thukkers often operate on the shadier side of the law, but their resourcefulness and diligence count a lot more for their success than their criminal activities.
