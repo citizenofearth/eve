@@ -1,7 +1,7 @@
 ---
 title: Corporation Hangars
 author: Nyx Sygnal
-date: 2017-07-19 14:42:36
+date: 2018-01-28 14:42:36
 tags:
 	- eve
 	- corp
@@ -9,13 +9,13 @@ tags:
 ## CORPORATION HANGAR DIVISIONS
 
 ```
-1st Division : Minerals & Mining
-2st Division : Salvaged Materials
-3st Division : Blueprints
-4st Division : Drones
-5st Division : Weapons/Ammunition
-6st Division : Misc Fittings
-7st Division : Loyalty Points Store
+1st Division : Raw Ore & Ice
+2st Division : Refined Minerals
+3st Division : Construction Components
+4st Division : Refinables
+5st Division : Refined Components
+6st Division : Salvaged Materials
+7st Division : Garbage
 ```
 
 # Help keep these hangar divisions clean!

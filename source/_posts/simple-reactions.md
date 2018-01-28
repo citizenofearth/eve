@@ -45,3 +45,23 @@ _Output_: 200
 - Hafnium x 100
 - Vanadium x 100
 _Output_: 200
+
+### Silicon Diborite
+- Evaporite Deposits x 100
+- Silicates x 100
+_Output_: 200
+
+### Caesarium Cadmide
+- Cadmium x 100
+- Caesium x 100
+_Output_: 200
+
+### Sulfuric Acid
+- Atmospheric Gases x 100
+- Evaporite Deposits x 100
+_Output_: 200
+
+### Neo Mercurite
+- Mercury x 100
+- Neodymium x 100
+_Output_: 200

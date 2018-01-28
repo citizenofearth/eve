@@ -33,3 +33,29 @@ _Output_: 3000
 - Vanadium Hafnite x 100
 _Output_: 750
 
+### Nanomechanical Microprocessor
+**Fernite Carbide**
+- Hydrogen Fuel Block x 5
+- Fernite Alloy x 100
+- Ceramic Powder x 100
+_Output_: 10000
+
+**Phenolic Composites**
+- Oxygen Fuel Block x 5
+- Silicon Diborite x 100
+- Caesarium Cadmide x 100
+- Vanadium Hafnite x 100
+_Output_: 2200
+
+**Nanotransistors**
+- Nitrogen Fuel Block	x 5
+- Sulfuric Acid	x 100
+- Platinum Technite	x 100
+- Neo Mercurite x 100
+_Output_: 1500
+
+**Plasmonic Metamaterials**
+- Hydrogen Fuel Block x 5
+- Evaporite Deposits	x 100
+- Silicates	x 100
+_Output_: 300
