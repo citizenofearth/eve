@@ -1,11 +1,13 @@
 ---
 title: Corporation Hangars
 author: Nyx Sygnal
-date: 2018-01-28 14:42:36
+date: 2018-01-27 14:42:36
 tags:
 	- eve
 	- corp
 ---
+***
+
 ## CORPORATION HANGAR DIVISIONS
 
 ```
