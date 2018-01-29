@@ -3,7 +3,6 @@ title: Location Hunting
 date: 2018-01-25 13:27:18
 author:
 tags:
-- eve
 - industry
 - moon mining
 - mining

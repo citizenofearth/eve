@@ -3,8 +3,8 @@ title: Corporation Hangars
 author: Nyx Sygnal
 date: 2018-01-27 14:42:36
 tags:
-	- eve
-	- corp
+- industry
+- corporation
 ---
 ***
 

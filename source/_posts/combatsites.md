@@ -3,8 +3,7 @@ title: Combat Sites
 date: 2017-03-21 14:42:36
 author:
 tags:
-	- eve
-	- combat
+- combat
 ---
 ***
 

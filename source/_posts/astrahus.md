@@ -3,9 +3,8 @@ title: Astrahus
 date: 2017-12-18 11:40:44
 author: Nyx Sygnal
 tags: 
-    - eve
-    - citadel
-    - industry
+- citadel
+- industry
 ---
 ***
 
