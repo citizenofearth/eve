@@ -6,13 +6,9 @@
     "version": "3.6.0"
   },
   "dependencies": {
-<<<<<<< HEAD
-    "hexo": "^3.6.0",
-=======
     "ejs": "^2.5.7",
     "hexo": "^3.6.0",
     "hexo-cli": "^1.1.0",
->>>>>>> 33bfe4f412c3107c3e9e1d65995911ed4232217d
     "hexo-deployer-ftpsync": "^0.1.1",
     "hexo-generator-archive": "^0.1.5",
     "hexo-generator-category": "^0.1.3",
@@ -22,11 +18,7 @@
     "hexo-renderer-ejs": "^0.3.1",
     "hexo-renderer-marked": "^0.3.2",
     "hexo-renderer-stylus": "^0.3.3",
-<<<<<<< HEAD
-    "hexo-server": "^0.3.1"
-=======
     "hexo-server": "^0.3.1",
     "swig": "^1.4.2"
->>>>>>> 33bfe4f412c3107c3e9e1d65995911ed4232217d
   }
 }
