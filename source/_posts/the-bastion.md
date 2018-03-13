@@ -10,7 +10,7 @@ tags:
 ---
 ***
 
-## THE BASTION
+## The Bastion
 
 Blood of the Khan is proud to move back to nullsec as members of [The Bastion](https://thebastion.info).
 <br>
