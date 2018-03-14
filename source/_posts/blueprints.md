@@ -1,5 +1,5 @@
 ---
-title: Blueprints
+title: Things to Build
 date: 2018-01-28 19:59:43
 author:
 tags:
@@ -10,6 +10,7 @@ tags:
 ---
 ***
 
+# Blueprints
 ## Hulls
 - Thrasher
 - Incursus

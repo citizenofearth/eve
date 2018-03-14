@@ -1,5 +1,5 @@
 ---
-title: POS Setup I
+title: Setting Up Your Very First POS
 date: 2017-08-01 12:41:56
 author: Nyx Sygnal
 tags:
