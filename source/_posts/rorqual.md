@@ -38,7 +38,7 @@ tags:
 35. ~~Tactical Shield Manipulation V~~
 39. ~~Industrial Reconfiguration II~~
 40. ~~Industrial Reconfiguration III~~
-
+41. ~~Industrial Reconfiguration IV~~
 
 6. Capital Industrial Ships I
 19. Ice Harvesting Drone Operation V
@@ -53,7 +53,6 @@ tags:
 36. Capital Shield Emission Systems II
 37. Capital Shield Emission Systems III
 38. Invulnerability Core Operation I
-41. Industrial Reconfiguration IV
 42. Industrial Reconfiguration V
 43. Jump Drive Calibration IV
 44. Jump Drive Calibration V
