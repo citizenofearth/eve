@@ -71,13 +71,3 @@ theme: cactus-dark
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: ftpsync
-  host: ftp.tenzin.ca
-  user: tenzojkw
-  pass: LyA6CN6$FP!D9
-  remote: /public_html/eve/
-  port: 21
-  ignore:
-  connections: 1
-  verbose: false
