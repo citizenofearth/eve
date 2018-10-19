@@ -1,5 +1,5 @@
 ---
-title: Location Hunting 1
+title: Location Hunting I
 date: 2018-01-25 13:27:18
 author:
 tags:
@@ -25,7 +25,7 @@ This became one of the central criterions that we would hold our new home system
 - Black Rise
 - 2 citadels
 - 1 jump to ice
-- 7 asteroid belts 
+- 7 asteroid belts
 - many L4 missions
 - 9 jumps to Jita
 - 16 jumps to Amarr

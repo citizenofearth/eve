@@ -3,7 +3,6 @@ title: Fuel Blocks
 date: 2018-01-25 00:15:42
 author:
 tags:
-- eve
 - industry
 - fuel
 ---

@@ -3,8 +3,8 @@ title: Research & Development
 date: 2017-08-29 14:42:36
 author: Nyx Sygnal
 tags:
-	- eve
-	- r&d
+- research
+- science
 ---
 ***
 

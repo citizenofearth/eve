@@ -4,4 +4,4 @@ title: about
 ***
 
 *“I am the punishment of God. If you had not committed great sins, God would not have sent a punishment like me upon you.”*
-![Great Khagan Temüjin](/images/temujin.jpg)
+![Great Khagan Temüjin](/images/temujin.png)

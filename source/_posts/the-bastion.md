@@ -1,9 +1,8 @@
 ---
 title: Back to Nullsec
 date: 2018-03-11 20:51:24
-author: 
+author:
 tags:
-- eve
 - nullsec
 - industry
 - corporation

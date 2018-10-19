@@ -1,9 +1,8 @@
 ---
-title: Location Hunting 2
+title: Location Hunting II
 date: 2018-01-28 14:34:38
 author:
 tags:
-- eve
 - industry
 - moon mining
 - mining

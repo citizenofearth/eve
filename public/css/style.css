@@ -442,7 +442,7 @@ html {
 }
 body {
   color: #fff;
-  background-color: #1d1f21;
+  background-color: #202931;
   font-size: 14px;
   font-family: "Menlo", "Meslo LG", monospace;
   font-weight: 400;
@@ -851,7 +851,7 @@ body {
   transition: opacity 0.2s;
   width: 100%;
   z-index: 5000000;
-  background: #212326;
+  background: #232d36;
   border-top: 1px solid #666673;
 }
 #footer-post a {

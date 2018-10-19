@@ -3,8 +3,8 @@ title: Wormholes
 date: 2017-10-01 12:57:07
 author: Nyx Sygnal
 tags:
-	- eve
-	- wormhole
+- eve
+- wormhole
 ---
 ***
 
@@ -15,4 +15,4 @@ Wormholes, introduced in the [Apocrypha](https://community.eveonline.com/news/pa
 
 In the [Rhea](https://community.eveonline.com/news/patch-notes/patch-notes-for-rhea) expansion, new types of wormholes were introduced - the massive wormhole system with stations (Thera) and Shattered Wormholes, mysterious regions of space which cannot host any residents. Recently the Drifters have appeared, and with them five Drifter wormhole systems that are marked from known space with a "unidentified wormhole" beacon.
 
-![Wormholes](/images/wormhole.jpg)
+![Wormholes](/images/wormhole.png)
