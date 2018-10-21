@@ -25,7 +25,7 @@ J165058 VIII : Barren : 11240 km
 J165058 IX : Barren : 8710 km
 
 #### PRODUCTS
-T1:
+P1:
 - Bacteria
 - Biofuels
 - Biomass
@@ -41,7 +41,7 @@ T1:
 - Toxic Metals
 - Water
 
-T2:
+P2:
 - Biocells
 - Construction Blocks
 - Consumer Electronics
@@ -64,7 +64,7 @@ T2:
 - Viral Agent
 - Water-Cooled CPU
 
-T3:
+P3:
 - Biotech Research Reports
 - Camera Drones
 - Condensates
@@ -81,7 +81,7 @@ T3:
 - Ukomi Super Conductors
 - Vaccines
 
-T4:
+P4:
 - Organic Mortar Applicators
 - POS Tower Fuel
 - POS Tower Medium Fuel
