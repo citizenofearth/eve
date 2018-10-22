@@ -414,12 +414,12 @@
 }
 .content table {
   width: 100%;
-  font-size: 12px;
+  font-size: 9px;
   border-collapse: collapse;
   text-align: left;
 }
 .content th {
-  font-size: 13px;
+  font-size: 10px;
   font-weight: bold;
   color: #fff;
   border-bottom: 1px dashed #ccc;
@@ -443,7 +443,7 @@ html {
 body {
   color: #fff;
   background-color: #202931;
-  font-size: 14px;
+  font-size: 11px;
   font-family: "Menlo", "Meslo LG", monospace;
   font-weight: 400;
   line-height: 1.725;
@@ -712,7 +712,7 @@ body {
   color: #6b847b;
 }
 #header-post #menu {
-  visibility: hidden;
+  visibility: visible;
 }
 #header-post #nav {
   letter-spacing: 0.01em;
@@ -790,8 +790,8 @@ body {
   color: #b3b3b3;
 }
 #header-post #toc .toc-level-4 {
-  font-size: 0.4rem;
-  color: #666;
+  font-size: 0.6rem;
+  color: #6b847b;
 }
 #header-post #toc .toc-level-5 {
   display: none;
@@ -999,7 +999,7 @@ body {
 }
 .post-list .post-item .meta {
   display: block;
-  font-size: 14px;
+  font-size: 11px;
   color: #666;
   min-width: 100px;
   margin-right: 16px;
@@ -1077,7 +1077,7 @@ article .content .video-container embed {
 }
 article .content blockquote {
   background: inherit;
-  color: #7404a4;
+  color: #fff;
   border-left: 0px solid #ccc;
   margin: 1rem 10px;
   padding: 0.5em 10px;
@@ -1087,7 +1087,7 @@ article .content blockquote p {
   margin: 0;
 }
 article .content blockquote:before {
-  color: #7404a4;
+  color: #fff;
   content: "\201C";
   font-size: 2em;
   line-height: 0.1em;
