@@ -20,4 +20,4 @@ tags:
 - Reprocessing Plant
 - Compression Plant
 
-### Locations:
+![Astrahus](/images/astrahus.png)

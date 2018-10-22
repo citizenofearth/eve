@@ -8,6 +8,7 @@ tags:
 ---
 ***
 
+![Planetary Interaction](/images/pi.png)
 ## TRAINING
 
 1. Max Charisma, then Intelligence:

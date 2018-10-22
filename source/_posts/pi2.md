@@ -8,6 +8,8 @@ tags:
 ---
 ***
 
+![Planetary Interaction](/images/pi.png)
+
 ## PRODUCTION SCHEMA
 
 #### HOME

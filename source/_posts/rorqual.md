@@ -9,6 +9,8 @@ tags:
 ---
 ***
 
+![Rorqual](/images/rorqual.png)
+
 # Rorqual T2 Fitting
 ```
 Damage Control II
