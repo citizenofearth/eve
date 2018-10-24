@@ -10,6 +10,8 @@ tags:
 ---
 ***
 
+![Manufacturing](/images/manufacturing.png)
+
 ## Hulls
 - Thrasher
 - Incursus

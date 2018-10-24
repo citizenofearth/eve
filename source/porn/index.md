@@ -15,5 +15,3 @@ date: 2017-10-10 10:10:10
 [![EVE Online](/images/porn/03.png "EVE Online")](/images/porn/03.png)
 
 [![EVE Online](/images/porn/04.png "EVE Online")](/images/porn/04.png)
-
-[![EVE Online](/images/porn/05.png "EVE Online")](/images/porn/05.png)

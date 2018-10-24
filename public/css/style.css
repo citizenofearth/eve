@@ -1271,19 +1271,19 @@ article .content .caption {
 }
 pre {
   font-family: "Menlo", "Meslo LG", monospace;
-  font-size: 13px;
+  font-size: 11px;
   padding: 10px 15px;
   padding-bottom: 0;
-  line-height: 22px;
+  line-height: 16px;
   -webkit-border-radius: 4px;
   border-radius: 4px;
-  border: 1px dotted #666;
+  border: 1px dotted #2d3944;
   overflow-x: auto;
 }
 code {
   -webkit-border-radius: 2px;
   border-radius: 2px;
-  border: 1px dotted #666;
+  border: 1px dotted #2d3944;
   padding: 0 5px;
 }
 pre code {
@@ -1293,7 +1293,7 @@ pre code {
 }
 .highlight {
   font-family: "Menlo", "Meslo LG", monospace;
-  background: #484848;
+  background: #2d3944;
   -webkit-border-radius: 4px;
   border-radius: 4px;
   padding: 10px 15px;
