@@ -34,7 +34,7 @@ $(document).ready(function(){
     })();
 
     function scrollTo() {
-      const links = document.querySelectorAll('.headerlink');
+      const links = document.querySelectorAll('.toc-link');
       links.forEach(each => (each.onclick = scrollAnchors));
     }
 
